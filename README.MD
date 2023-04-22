@@ -1,10 +1,9 @@
 #
 # CALCULATOR WITH GLASSMORPHISM
 ## Blue
-![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g1.png)
-![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g2.png)
+![](https://github.com/DamianPyCoder/Glassmorphism__Calculator/blob/main/images/g1.png)
+![](https://github.com/DamianPyCoder/Glassmorphism__Calculator/blob/main/images/g2.png)
 
 ## Black
-![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g4.png)
-![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g5.png)
-![](https://github.com/DamianPyCoder/Apps_with_KOTLIN_or_JAVA/blob/main/CALCULATOR_GLASSMORPHISM/screenshots/g6.png)
+![](https://github.com/DamianPyCoder/Glassmorphism__Calculator/blob/main/images/g5.png)
+![](https://github.com/DamianPyCoder/Glassmorphism__Calculator/blob/main/images/g6.png)
